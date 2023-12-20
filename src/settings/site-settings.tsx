@@ -1,9 +1,5 @@
-import { ILFlag } from '@components/icons/language/ILFlag';
-import { SAFlag } from '@components/icons/language/SAFlag';
-import { CNFlag } from '@components/icons/language/CNFlag';
-import { USFlag } from '@components/icons/language/USFlag';
-import { DEFlag } from '@components/icons/language/DEFlag';
-import { ESFlag } from '@components/icons/language/ESFlag';
+//import { SAFlag } from '@components/icons/language/SAFlag';
+//import { USFlag } from '@components/icons/language/USFlag';
 import siteLogo from 'public/assets/images/logo.png';
 import siteLogoBlack from 'public/assets/images/logo-black.png';
 
@@ -31,12 +27,12 @@ export const siteSettings = {
       {
         id: 1,
         path: '/my-account/wishlist/',
-        label: 'menu-wishlists',
+        label: 'Lista želja',
       },
       {
         id: 2,
         path: '/checkout/',
-        label: 'menu-checkout',
+        label: 'Košarica',
       },
      /* {
         id: 3,
@@ -91,7 +87,7 @@ export const siteSettings = {
       {
         id: 2,
         path: '/search',
-        label: 'menu-categories',
+        label: 'Proizvodi',
         type: 'mega',
         mega_categoryCol: 5,
         mega_bannerMode: 'none',
@@ -287,7 +283,7 @@ export const siteSettings = {
           },
         ],
       },
-      {
+     /* {
         id: 3,
         path: '/search',
         label: 'menu-dietary',
@@ -460,12 +456,12 @@ export const siteSettings = {
             ],
           },
         ],
-      },
-      {
+      },*/
+      /*{
         id: 4,
         path: '/shops/',
         label: 'menu-shops',
-      },
+      },*/
       {
         id: 5,
         path: '/',
@@ -580,7 +576,7 @@ export const siteSettings = {
         label: 'menu-contact-us',
       },
     ],
-    languageMenu: [
+    /*languageMenu: [
       {
         id: 'ar',
         name: 'عربى',
@@ -593,7 +589,7 @@ export const siteSettings = {
         value: 'en',
         icon: <USFlag />,
       },
-    ],
+    ],*/
     pagesMenu: [
       {
         id: 1,
