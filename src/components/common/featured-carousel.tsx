@@ -19,8 +19,8 @@ const data = [
                 color="#333"
             />
         ),
-        title: 'feature-title-one',
-        description: 'feature-title-one-description',
+        title: 'DOSTAVA',
+        description: 'Za sve iznose 4,00 €',
         href: ROUTES.SEARCH,
     },
     {
@@ -30,8 +30,8 @@ const data = [
                 color="#333"
             />
         ),
-        title: 'feature-title-two',
-        description: 'feature-title-two-description',
+        title: 'POVRAT NOVCA',
+        description: 'unutar 30 dana',
         href: ROUTES.SEARCH,
     },
     {
@@ -41,8 +41,8 @@ const data = [
                 color="#333"
             />
         ),
-        title: 'feature-title-three',
-        description: 'feature-title-three-description',
+        title: 'NA RASPOLAGANJU SMO',
+        description: 'od 08:00h do 16:00h',
         href: ROUTES.SEARCH,
     },
     {
@@ -52,8 +52,8 @@ const data = [
                 color="#333"
             />
         ),
-        title: 'feature-title-four',
-        description: 'feature-title-four-description',
+        title: 'POVOLJNA KUPNJA',
+        description: 'po našim cijenama',
         href: ROUTES.SEARCH,
     },
     {
@@ -63,8 +63,8 @@ const data = [
                 color="#333"
             />
         ),
-        title: 'feature-title-five',
-        description: 'feature-title-five-description',
+        title: 'SIGURNO PLAĆANJE',
+        description: 'platite pouzećem',
         href: ROUTES.SEARCH,
     },
 ];
@@ -104,8 +104,8 @@ const FeatureCarousel: React.FC<Props> = ({
         prevActivateId="featured-carousel-button-prev"
         nextActivateId="featured-carousel-button-next"
         lang={lang}
-        prevButtonClassName="start-3  3xl:top-auto 3xl:-translate-y-2 4xl:-translate-y-10"
-        nextButtonClassName={`end-3  3xl:top-auto transform 2xl:translate-x-0 3xl:-translate-y-2 `}
+        prevButtonClassName="start-3 3xl:top-auto 3xl:-translate-y-2 4xl:-translate-y-10"
+        nextButtonClassName={`end-3 3xl:top-auto transform 2xl:translate-x-0 3xl:-translate-y-2 `}
         className={`rounded-md border border-black/10 py-6 `}
       >
         {data?.map((item) => (

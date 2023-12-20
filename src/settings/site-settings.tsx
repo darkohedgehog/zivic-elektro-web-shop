@@ -99,7 +99,7 @@ export const siteSettings = {
           {
             id: 1,
             path: '/search',
-            label: 'menu-fresh-vegetables',
+            label: 'Nadžbukni program',
             image: {
               id: 1,
               thumbnail: '/assets/images/category/collection_1.jpg',
@@ -136,7 +136,7 @@ export const siteSettings = {
           {
             id: 2,
             path: '/search',
-            label: 'menu-diet-nutrition',
+            label: 'Podžbukni program',
             image: {
               id: 1,
               thumbnail: '/assets/images/category/collection_2.jpg',
@@ -173,7 +173,7 @@ export const siteSettings = {
           {
             id: 3,
             path: '/search',
-            label: 'menu-healthy-foods',
+            label: 'Modularni program - Kombo',
             image: {
               id: 1,
               thumbnail: '/assets/images/category/collection_3.jpg',
@@ -210,7 +210,7 @@ export const siteSettings = {
           {
             id: 4,
             path: '/search',
-            label: 'menu-grocery-items',
+            label: 'Utikači i razdjelnici',
             image: {
               id: 1,
               thumbnail: '/assets/images/category/collection_4.jpg',
@@ -247,7 +247,7 @@ export const siteSettings = {
           {
             id: 5,
             path: '/search',
-            label: 'menu-beaf-steak',
+            label: 'Razdjelni ormari i kutije',
             image: {
               id: 1,
               thumbnail: '/assets/images/category/collection_5.jpg',
@@ -465,7 +465,7 @@ export const siteSettings = {
       {
         id: 5,
         path: '/',
-        label: 'menu-pages',
+        label: 'Stranice',
         subMenu: [
           {
             id: 1,
