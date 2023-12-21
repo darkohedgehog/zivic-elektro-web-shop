@@ -15,16 +15,16 @@ export default function VariationPrice({
         ? selectedVariation.sale_price
         : selectedVariation.price,
       baseAmount: selectedVariation.price,
-      currencyCode: 'USD',
+      currencyCode: 'EUR',
     }
   );
   const { price: min_price } = usePrice({
     amount: minPrice,
-    currencyCode: 'USD',
+    currencyCode: 'EUR',
   });
   const { price: max_price } = usePrice({
     amount: maxPrice,
-    currencyCode: 'USD',
+    currencyCode: 'EUR',
   });
   return (
     <div className="flex items-center mt-5">
