@@ -26,7 +26,7 @@ function ClientRenderedHighLightedBar({ lang }: { lang: string }) {
               dangerouslySetInnerHTML={{ __html: t('text-highlighted-bar') }}
             />
           </div>
-          <Countdown date={Date.now() + 4000000 * 71} />
+          {<Countdown date={Date.now() + 4000000 * 71} />}
         </HighlightedBar>
       )}
     </>

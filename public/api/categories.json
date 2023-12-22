@@ -2,205 +2,131 @@
   "data": [
     {
       "id": 1,
-      "name": "Audio Music",
-      "slug": "audio",
+      "name": "PODŽBUKNI PROGRAM",
+      "slug": "podžbukni",
       "type": "mega",
       "productCount": "125",
       "image": {
         "id": 1,
-        "thumbnail": "/assets/images/category/cate1.jpg",
-        "original": "/assets/images/category/collection_1.jpg"
+        "thumbnail": "/assets/images/category/status_metalka.jpg",
+        "original": "/assets/images/category/status_metalka.jpg"
       },
       "children": [
         {
           "id": 1,
-          "name": "Bags & Accessories",
-          "slug": "bags-accessories",
+          "name": "STATUS",
+          "slug": "status",
           "children": [
             {
               "id": 1,
-              "name": "Jewelry & Watches",
-              "slug": "bags-accessories"
+              "name": "Prekidači",
+              "slug": "prekidači"
             },
             {
               "id": 2,
-              "name": "Accessories",
-              "slug": "electronic-digital"
+              "name": "Utičnice",
+              "slug": "utičnice"
             },
             {
               "id": 3,
-              "name": "Wedding Rings",
-              "slug": "garden"
+              "name": "Tipkala",
+              "slug": "tipkala"
             },
             {
               "id": 4,
-              "name": "Men Watches",
-              "slug": "home-kitchen"
+              "name": "Okviri",
+              "slug": "okviri"
             },
             {
               "id": 5,
-              "name": "Woman Watches",
-              "slug": "lighting-lamps"
+              "name": "Kupaonski indikatori",
+              "slug": "kupaonski-indikatori"
             }
           ]
         },
         {
           "id": 2,
-          "name": "Electronic & Digital",
-          "slug": "electronic-digital",
+          "name": "EMPORIO",
+          "slug": "emporio",
           "children": [
             {
               "id": 1,
-              "name": "Mobiles & Tablets",
-              "slug": "bags-accessories"
+              "name": "Prekidači",
+              "slug": "prekidači"
             },
             {
               "id": 2,
-              "name": "Camera, Photo & Video",
-              "slug": "electronic-digital"
+              "name": "Utičnice",
+              "slug": "utičnice"
             },
             {
               "id": 3,
-              "name": "Mobiles",
-              "slug": "garden"
+              "name": "Tipkala",
+              "slug": "tipkala"
             },
             {
               "id": 4,
-              "name": "Tablets",
-              "slug": "home-kitchen"
-            },
-            {
-              "id": 5,
-              "name": "PC Gaming",
-              "slug": "lighting-lamps"
+              "name": "Okviri",
+              "slug": "okviri"
             }
           ]
         },
         {
           "id": 3,
-          "name": "Garden & Kitchen",
-          "slug": "garden",
+          "name": "PREMIER +",
+          "slug": "premier+",
           "children": [
             {
               "id": 1,
-              "name": "Helicopters & Parts",
-              "slug": "bags-accessories"
+              "name": "Prekidači",
+              "slug": "prekidači"
             },
             {
               "id": 2,
-              "name": "Toys & Hobbies",
-              "slug": "electronic-digital"
+              "name": "Utičnice",
+              "slug": "utičnice"
             },
             {
               "id": 3,
-              "name": "Outdoor & Traveling",
-              "slug": "garden"
+              "name": "Tipkala",
+              "slug": "tipkala"
             },
             {
               "id": 4,
-              "name": "Home & Kitchen",
-              "slug": "home-kitchen"
+              "name": "Okviri",
+              "slug": "okviri"
             },
             {
               "id": 5,
-              "name": "Lighting & Lamps",
-              "slug": "lighting-lamps"
+              "name": "Kupaonski indikatori",
+              "slug": "kupaonski-indikatori"
             }
           ]
         },
         {
           "id": 4,
-          "name": "Automotive",
-          "slug": "home-kitchen",
+          "name": "NATURE",
+          "slug": "nature",
           "children": [
             {
               "id": 1,
-              "name": "Automotive",
-              "slug": "bags-accessories"
+              "name": "Prekidači",
+              "slug": "prekidači"
             },
             {
               "id": 2,
-              "name": "Car Alarms and Security",
-              "slug": "electronic-digital"
+              "name": "Utičnice",
+              "slug": "utičnice"
             },
             {
               "id": 3,
-              "name": "Car Audio & Speakers",
-              "slug": "garden"
+              "name": "Tipkala",
+              "slug": "tipkala"
             },
             {
               "id": 4,
-              "name": "Home & Kitchen",
-              "slug": "home-kitchen"
-            },
-            {
-              "id": 5,
-              "name": "Lighting & Lamps",
-              "slug": "More Car Accessories"
-            }
-          ]
-        },
-        {
-          "id": 5,
-          "name": "Lighting & Lamps",
-          "slug": "lighting-lamps",
-          "children": [
-            {
-              "id": 1,
-              "name": "Wedding Rings",
-              "slug": "bags-accessories"
-            },
-            {
-              "id": 2,
-              "name": "Electronic & Digital",
-              "slug": "electronic-digital"
-            },
-            {
-              "id": 3,
-              "name": "Garden & Kitchen",
-              "slug": "garden"
-            },
-            {
-              "id": 4,
-              "name": "Home & Kitchen",
-              "slug": "home-kitchen"
-            },
-            {
-              "id": 5,
-              "name": "Lighter & Cigar Supplies",
-              "slug": "lighting-lamps"
-            }
-          ]
-        },
-        {
-          "id": 6,
-          "name": "Home Accessories",
-          "slug": "accessories",
-          "children": [
-            {
-              "id": 1,
-              "name": "Bags & Accessories",
-              "slug": "bags-accessories"
-            },
-            {
-              "id": 2,
-              "name": "Electronic & Digital",
-              "slug": "electronic-digital"
-            },
-            {
-              "id": 3,
-              "name": "Garden & Kitchen",
-              "slug": "garden"
-            },
-            {
-              "id": 4,
-              "name": "Gift for Man",
-              "slug": "home-kitchen"
-            },
-            {
-              "id": 5,
-              "name": "Gift for Woman",
-              "slug": "lighting-lamps"
+              "name": "Okviri",
+              "slug": "okviri"
             }
           ]
         }
@@ -208,324 +134,162 @@
     },
     {
       "id": 2,
-      "name": "Phones & Tablets",
-      "slug": "phone-tablets",
+      "name": "MODULARNI PROGRAM-KOMBO",
+      "slug": "modularni-program-kombo",
       "type": "mega",
       "productCount": "255",
       "image": {
         "id": 1,
-        "thumbnail": "/assets/images/category/cate2.jpg",
-        "original": "/assets/images/category/collection_2.jpg"
+        "thumbnail": "/assets/images/category/kombo_metalka.jpg",
+        "original": "/assets/images/category/kombo_metalka.jpg"
       },
       "children": [
         {
           "id": 1,
-          "name": "Bags & Accessories",
-          "slug": "bags-accessories",
+          "name": "Kombo-bijela boja",
+          "slug": "Kombo-bijela-boja",
           "children": [
             {
               "id": 1,
-              "name": "Jewelry & Watches",
-              "slug": "bags-accessories"
+              "name": "Prekidači",
+              "slug": "prekidači"
             },
             {
               "id": 2,
-              "name": "Accessories",
-              "slug": "electronic-digital"
+              "name": "Utičnice",
+              "slug": "utičnice"
             },
             {
               "id": 3,
-              "name": "Wedding Rings",
-              "slug": "garden"
-            },
-            {
-              "id": 4,
-              "name": "Men Watches",
-              "slug": "home-kitchen"
-            },
-            {
-              "id": 5,
-              "name": "Woman Watches",
-              "slug": "lighting-lamps"
+              "name": "Tipkala",
+              "slug": "tipkala"
             }
           ]
         },
         {
           "id": 2,
-          "name": "Electronic & Digital",
-          "slug": "electronic-digital",
+          "name": "Kombo-crna boja",
+          "slug": "kombo-crna-boja",
           "children": [
             {
               "id": 1,
-              "name": "Mobiles & Tablets",
-              "slug": "bags-accessories"
+              "name": "Prekidači",
+              "slug": "prekidači"
             },
             {
               "id": 2,
-              "name": "Camera, Photo & Video",
-              "slug": "electronic-digital"
+              "name": "Utičnice",
+              "slug": "utičnice"
             },
             {
               "id": 3,
-              "name": "Mobiles",
-              "slug": "garden"
-            },
-            {
-              "id": 4,
-              "name": "Tablets",
-              "slug": "home-kitchen"
-            },
-            {
-              "id": 5,
-              "name": "PC Gaming",
-              "slug": "lighting-lamps"
+              "name": "Tipkala",
+              "slug": "tipkala"
             }
           ]
         },
         {
           "id": 3,
-          "name": "Garden & Kitchen",
-          "slug": "garden",
-          "children": [
-            {
-              "id": 1,
-              "name": "Helicopters & Parts",
-              "slug": "bags-accessories"
-            },
-            {
-              "id": 2,
-              "name": "Toys & Hobbies",
-              "slug": "electronic-digital"
-            },
-            {
-              "id": 3,
-              "name": "Outdoor & Traveling",
-              "slug": "garden"
-            },
-            {
-              "id": 4,
-              "name": "Home & Kitchen",
-              "slug": "home-kitchen"
-            },
-            {
-              "id": 5,
-              "name": "Lighting & Lamps",
-              "slug": "lighting-lamps"
-            }
-          ]
+          "name": "Nosači modula",
+          "slug": "nosači-modula"
+        },
+        {
+          "id": 3,
+          "name": "Ukrasni oviri",
+          "slug": "ukrasni-okviri"
+        },
+        {
+          "id": 3,
+          "name": "Instalacijske kutije",
+          "slug": "instalacijske-kutije"
         }
       ]
 
     },
     {
       "id": 3,
-      "name": "Fashion & Clothing",
-      "slug": "fashion-clothing",
+      "name": "NADŽBUKNI PROGRAM",
+      "slug": "nadžbukni-program",
       "productCount": "250",
       "image": {
         "id": 1,
-        "thumbnail": "/assets/images/category/cate3.jpg",
-        "original": "/assets/images/category/collection_3.jpg"
+        "thumbnail": "/assets/images/category/set_q_og_metalka.jpg",
+        "original": "/assets/images/category/set_q_og_metalka.jpg"
       },
       "children": [
         {
           "id": 1,
-          "name": "Bags & Accessories",
-          "slug": "bags-accessories",
+          "name": "Bijela boja",
+          "slug": "bijela-boja",
           "children": [
             {
               "id": 1,
-              "name": "Jewelry & Watches",
-              "slug": "bags-accessories"
+              "name": "Prekidači",
+              "slug": "prekidači"
             },
             {
               "id": 2,
-              "name": "Accessories",
-              "slug": "electronic-digital"
+              "name": "Utičnice",
+              "slug": "utičnice"
             },
             {
               "id": 3,
-              "name": "Wedding Rings",
-              "slug": "garden"
-            },
-            {
-              "id": 4,
-              "name": "Men Watches",
-              "slug": "home-kitchen"
-            },
-            {
-              "id": 5,
-              "name": "Woman Watches",
-              "slug": "lighting-lamps"
+              "name": "Tipkala",
+              "slug": "tipkala"
             }
           ]
         },
         {
           "id": 2,
-          "name": "Electronic & Digital",
-          "slug": "electronic-digital",
+          "name": "Siva boja",
+          "slug": "siva-boja",
           "children": [
             {
               "id": 1,
-              "name": "Mobiles & Tablets",
-              "slug": "bags-accessories"
+              "name": "Prekidači",
+              "slug": "prekidači"
             },
             {
               "id": 2,
-              "name": "Camera, Photo & Video",
-              "slug": "electronic-digital"
+              "name": "Utičnice",
+              "slug": "utičnice"
             },
             {
               "id": 3,
-              "name": "Mobiles",
-              "slug": "garden"
-            },
-            {
-              "id": 4,
-              "name": "Tablets",
-              "slug": "home-kitchen"
-            },
-            {
-              "id": 5,
-              "name": "PC Gaming",
-              "slug": "lighting-lamps"
+              "name": "Tipkala",
+              "slug": "tipkala"
             }
           ]
         },
         {
           "id": 3,
-          "name": "Garden & Kitchen",
-          "slug": "garden",
+          "name": "MINI OG",
+          "slug": "mini-og",
           "children": [
             {
               "id": 1,
-              "name": "Helicopters & Parts",
-              "slug": "bags-accessories"
+              "name": "Prekidači",
+              "slug": "prekidači"
             },
             {
               "id": 2,
-              "name": "Toys & Hobbies",
-              "slug": "electronic-digital"
+              "name": "Utičnice",
+              "slug": "utičnice"
             },
             {
               "id": 3,
-              "name": "Outdoor & Traveling",
-              "slug": "garden"
-            },
-            {
-              "id": 4,
-              "name": "Home & Kitchen",
-              "slug": "home-kitchen"
-            },
-            {
-              "id": 5,
-              "name": "Lighting & Lamps",
-              "slug": "lighting-lamps"
-            }
-          ]
-        },
-        {
-          "id": 4,
-          "name": "Automotive",
-          "slug": "home-kitchen",
-          "children": [
-            {
-              "id": 1,
-              "name": "Automotive",
-              "slug": "bags-accessories"
-            },
-            {
-              "id": 2,
-              "name": "Car Alarms and Security",
-              "slug": "electronic-digital"
-            },
-            {
-              "id": 3,
-              "name": "Car Audio & Speakers",
-              "slug": "garden"
-            },
-            {
-              "id": 4,
-              "name": "Home & Kitchen",
-              "slug": "home-kitchen"
-            },
-            {
-              "id": 5,
-              "name": "Lighting & Lamps",
-              "slug": "More Car Accessories"
-            }
-          ]
-        },
-        {
-          "id": 5,
-          "name": "Lighting & Lamps",
-          "slug": "lighting-lamps",
-          "children": [
-            {
-              "id": 1,
-              "name": "Wedding Rings",
-              "slug": "bags-accessories"
-            },
-            {
-              "id": 2,
-              "name": "Electronic & Digital",
-              "slug": "electronic-digital"
-            },
-            {
-              "id": 3,
-              "name": "Garden & Kitchen",
-              "slug": "garden"
-            },
-            {
-              "id": 4,
-              "name": "Home & Kitchen",
-              "slug": "home-kitchen"
-            },
-            {
-              "id": 5,
-              "name": "Lighter & Cigar Supplies",
-              "slug": "lighting-lamps"
-            }
-          ]
-        },
-        {
-          "id": 6,
-          "name": "Home Accessories",
-          "slug": "accessories",
-          "children": [
-            {
-              "id": 1,
-              "name": "Bags & Accessories",
-              "slug": "bags-accessories"
-            },
-            {
-              "id": 2,
-              "name": "Electronic & Digital",
-              "slug": "electronic-digital"
-            },
-            {
-              "id": 3,
-              "name": "Garden & Kitchen",
-              "slug": "garden"
-            },
-            {
-              "id": 4,
-              "name": "Gift for Man",
-              "slug": "home-kitchen"
-            },
-            {
-              "id": 5,
-              "name": "Gift for Woman",
-              "slug": "lighting-lamps"
+              "name": "Tipkala",
+              "slug": "tipkala"
             }
           ]
         }
+       
       ]
     },
     {
       "id": 4,
-      "name": "Garden & Kitchen",
-      "slug": "garden-kitchen",
+      "name": "PRODUŽNI I PRIKLJUČNI KABELI",
+      "slug": "produžni-priključni-kabeli",
       "productCount": "120",
       "image": {
         "id": 1,
@@ -535,35 +299,20 @@
       "children": [
         {
           "id": 1,
-          "name": "Helicopters & Parts",
-          "slug": "bags-accessories"
+          "name": "Produžni kabeli",
+          "slug": "produžni-kabeli"
         },
         {
           "id": 2,
-          "name": "Toys & Hobbies",
-          "slug": "electronic-digital"
-        },
-        {
-          "id": 3,
-          "name": "Outdoor & Traveling",
-          "slug": "garden"
-        },
-        {
-          "id": 4,
-          "name": "Home & Kitchen",
-          "slug": "home-kitchen"
-        },
-        {
-          "id": 5,
-          "name": "Lighting & Lamps",
-          "slug": "lighting-lamps"
+          "name": "Priključni kabeli",
+          "slug": "priključni-kabeli"
         }
       ]
     },
     {
       "id": 5,
-      "name": "TV & Video",
-      "slug": "tv-video",
+      "name": "RAZDJELNI ORMARI I KUTIJE",
+      "slug": "razdjelni-ormari-kutije",
       "productCount": "250",
       "image": {
         "id": 1,
@@ -573,35 +322,20 @@
       "children": [
         {
           "id": 1,
-          "name": "Apples",
-          "slug": "apples"
+          "name": "Razdjelni ormari",
+          "slug": "razdjelni-ormari"
         },
         {
           "id": 2,
-          "name": "Melons",
-          "slug": "melons"
-        },
-        {
-          "id": 3,
-          "name": "Berries",
-          "slug": "berries"
-        },
-        {
-          "id": 4,
-          "name": "LG",
-          "slug": "lg"
-        },
-        {
-          "id": 4,
-          "name": "Samsung",
-          "slug": "sansung"
+          "name": "Razdjelne kutije",
+          "slug": "razdjelne-kutije"
         }
       ]
     },
     {
       "id": 6,
-      "name": "Beauty & Health",
-      "slug": "beauty-health",
+      "name": "UTIKAČI I SPOJKE",
+      "slug": "utikači-spojke",
       "productCount": "450",
       "image": {
         "id": 1,
@@ -611,35 +345,25 @@
       "children": [
         {
           "id": 1,
-          "name": "Fruit Juice",
-          "slug": "fruit-juice"
+          "name": "Utikači",
+          "slug": "utikači"
         },
         {
           "id": 2,
-          "name": "Ice Coffee",
-          "slug": "ice-coffee"
+          "name": "Spojke",
+          "slug": "spojke"
         },
         {
           "id": 3,
-          "name": "Comodianos",
-          "slug": "comodianos"
-        },
-        {
-          "id": 4,
-          "name": "Punch",
-          "slug": "punch"
-        },
-        {
-          "id": 5,
-          "name": "Montemous",
-          "slug": "montemous"
+          "name": "T-razdjelnici",
+          "slug": "t-razdjelnici"
         }
       ]
     },
     {
       "id": 7,
-      "name": "Jewelry & Watches",
-      "slug": "jewelry-watches",
+      "name": "KUĆNA ZVONA",
+      "slug": "kućna-zvona",
       "productCount": "320",
       "image": {
         "id": 1,
@@ -649,102 +373,24 @@
     },
     {
       "id": 8,
-      "name": "Top 10 Offers",
-      "slug": "quality-milk",
+      "name": "MOTORNE ZAŠTITNE SKLOPKE",
+      "slug": "motorne-zaštitne-sklopke",
       "productCount": "350",
       "image": {
         "id": 1,
         "thumbnail": "/assets/images/category/cate8.jpg",
         "original": "/assets/images/category/quality-milk.png"
-      },
-      "children": [
-        {
-          "id": 1,
-          "name": "Boiled Milk",
-          "slug": "boiled-milk"
-        },
-        {
-          "id": 2,
-          "name": "Mixed Milk",
-          "slug": "mixed-milk"
-        }
-      ]
+      }
     },
     {
       "id": 9,
-      "name": "Accessories",
-      "slug": "accessories",
-      "productCount": "350",
+      "name": "GRLA ZA ŽARULJE",
+      "slug": "grla-žarulje",
+      "productCount": "320",
       "image": {
         "id": 1,
-        "thumbnail": "/assets/images/category/cate9.jpg",
-        "original": "/assets/images/category/cold-drinks.png"
-      }
-    },
-    {
-      "id": 10,
-      "name": "Beaf Steak",
-      "slug": "beaf-steak",
-      "productCount": "620",
-      "image": {
-        "id": 1,
-        "thumbnail": "/assets/images/category/cate10.jpg",
-        "original": "/assets/images/category/beaf-steak.png"
-      }
-    },
-    {
-      "id": 11,
-      "name": "Vitamin Items",
-      "slug": "vitamin-items",
-      "productCount": "420",
-      "image": {
-        "id": 1,
-        "thumbnail": "/assets/images/category/cate11.jpg",
-        "original": "/assets/images/category/vitamin-items.png"
-      }
-    },
-    {
-      "id": 12,
-      "name": "Raw Chicken mdeo",
-      "slug": "raw-chicken",
-      "productCount": "430",
-      "image": {
-        "id": 1,
-        "thumbnail": "/assets/images/category/cate12.jpg",
-        "original": "/assets/images/category/raw-chicken.png"
-      }
-    },
-    {
-      "id": 13,
-      "name": "Breakfast Item",
-      "slug": "breakfast-item",
-      "productCount": "430",
-      "image": {
-        "id": 1,
-        "thumbnail": "/assets/images/category/cate2.jpg",
-        "original": "/assets/images/category/breakfast-item.png"
-      }
-    },
-    {
-      "id": 14,
-      "name": "Fish Items",
-      "slug": "fish-items",
-      "productCount": "430",
-      "image": {
-        "id": 1,
-        "thumbnail": "/assets/images/category/cate2.jpg",
-        "original": "/assets/images/category/fish-items.png"
-      }
-    },
-    {
-      "id": 15,
-      "name": "Green Vegetables",
-      "slug": "green-vegetables",
-      "productCount": "430",
-      "image": {
-        "id": 1,
-        "thumbnail": "/assets/images/category/cate2.jpg",
-        "original": "/assets/images/category/green-vegetables.png"
+        "thumbnail": "/assets/images/category/cate7.jpg",
+        "original": "/assets/images/category/collection_6.jpg"
       }
     }
   ]

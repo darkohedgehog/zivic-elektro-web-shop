@@ -102,35 +102,26 @@ export const siteSettings = {
             label: 'Nadžbukni program',
             image: {
               id: 1,
-              thumbnail: '/assets/images/category/collection_1.jpg',
-              original: '/assets/images/category/collection_1.jpg',
+              thumbnail: '/assets/images/category/set_q_og_metalka.jpg',
+              original: '/assets/images/category/set_q_og_metalka.jpg',
             },
             subMenu: [
+              
               {
                 id: 1,
                 path: '/search',
-                label: 'menu-home-audio',
+                label: 'Bijela boja',
               },
               {
                 id: 2,
                 path: '/search',
-                label: 'menu-helicopters',
+                label: 'Siva boja',
               },
               {
                 id: 3,
                 path: '/search',
-                label: 'menu-toys',
-              },
-              {
-                id: 4,
-                path: '/search',
-                label: 'menu-outdoor',
-              },
-              {
-                id: 5,
-                path: '/search',
-                label: 'menu-organic',
-              },
+                label: 'Mini-OG',
+              }
             ],
           },
           {
@@ -139,35 +130,30 @@ export const siteSettings = {
             label: 'Podžbukni program',
             image: {
               id: 1,
-              thumbnail: '/assets/images/category/collection_2.jpg',
-              original: '/assets/images/category/collection_2.jpg',
+              thumbnail: '/assets/images/category/status_metalka.jpg',
+              original: '/assets/images/category/status_metalka.jpg',
             },
             subMenu: [
               {
                 id: 1,
                 path: '/search',
-                label: 'menu-automotive',
+                label: 'Status',
               },
               {
                 id: 2,
                 path: '/search',
-                label: 'menu-autocar',
+                label: 'Emporio',
               },
               {
                 id: 3,
                 path: '/search',
-                label: 'menu-morecar',
+                label: 'Premier +',
               },
               {
                 id: 4,
                 path: '/search',
-                label: 'menu-autosecurity',
-              },
-              {
-                id: 5,
-                path: '/search',
-                label: 'menu-battereries',
-              },
+                label: 'Nature',
+              }
             ],
           },
           {
@@ -176,41 +162,41 @@ export const siteSettings = {
             label: 'Modularni program - Kombo',
             image: {
               id: 1,
-              thumbnail: '/assets/images/category/collection_3.jpg',
-              original: '/assets/images/category/collection_3.jpg',
+              thumbnail: '/assets/images/category/kombo_metalka.jpg',
+              original: '/assets/images/category/kombo_metalka.jpg',
             },
             subMenu: [
               {
                 id: 1,
                 path: '/search',
-                label: 'menu-vegetarian',
+                label: 'Bijela boja',
               },
               {
                 id: 2,
                 path: '/search',
-                label: 'menu-kakogenic',
+                label: 'Crna boja',
               },
               {
                 id: 3,
                 path: '/search',
-                label: 'menu-mediterranean',
+                label: 'Nosači',
               },
               {
                 id: 4,
                 path: '/search',
-                label: 'menu-organic',
+                label: 'Ukrasni okviri',
               },
               {
                 id: 5,
                 path: '/search',
-                label: 'menu-organic',
+                label: 'Instalacijske kutije',
               },
             ],
           },
           {
             id: 4,
             path: '/search',
-            label: 'Utikači i razdjelnici',
+            label: 'Utikači i spojke',
             image: {
               id: 1,
               thumbnail: '/assets/images/category/collection_4.jpg',
@@ -220,27 +206,17 @@ export const siteSettings = {
               {
                 id: 1,
                 path: '/search',
-                label: 'menu-battereries',
+                label: 'Utikači',
               },
               {
                 id: 2,
                 path: '/search',
-                label: 'menu-beadphones',
+                label: 'Spojke',
               },
               {
                 id: 3,
                 path: '/search',
-                label: 'menu-accessories',
-              },
-              {
-                id: 4,
-                path: '/search',
-                label: 'menu-jewelry',
-              },
-              {
-                id: 5,
-                path: '/search',
-                label: 'menu-wedding',
+                label: 'T-razdjelnici',
               },
             ],
           },
@@ -257,27 +233,12 @@ export const siteSettings = {
               {
                 id: 1,
                 path: '/search',
-                label: 'menu-menwatch',
+                label: 'Razdjelni ormari',
               },
               {
                 id: 2,
                 path: '/search',
-                label: 'menu-womanwatch',
-              },
-              {
-                id: 3,
-                path: '/search',
-                label: 'menu-gift',
-              },
-              {
-                id: 4,
-                path: '/search',
-                label: 'menu-giftman',
-              },
-              {
-                id: 5,
-                path: '/search',
-                label: 'menu-giftwoman',
+                label: 'Razjelne kutije',
               },
             ],
           },
@@ -470,49 +431,49 @@ export const siteSettings = {
           {
             id: 1,
             path: '/',
-            label: 'menu-users',
+            label: 'Korisnici',
             subMenu: [
               {
                 id: 1,
                 path: '/my-account/account-settings',
-                label: 'menu-my-account',
+                label: 'Moj nalog',
               },
               {
                 id: 2,
                 path: '/signin',
-                label: 'menu-sign-in',
+                label: 'Prijavi se',
               },
               {
                 id: 3,
                 path: '/signup',
-                label: 'menu-sign-up',
+                label: 'Odjavi se',
               },
             ],
           },
           {
             id: 2,
-            path: '/faq',
-            label: 'menu-faq',
+            path: '/about',
+            label: 'O nama',
           },
           {
             id: 3,
             path: '/contact-us',
-            label: 'menu-contact-us',
+            label: 'Kontak',
           },
           {
             id: 4,
             path: '/privacy',
-            label: 'menu-privacy-policy',
+            label: 'Pravila privatnosti',
           },
           {
             id: 5,
             path: '/terms',
-            label: 'menu-terms-condition',
+            label: 'Uvjeti korištenja',
           },
           {
             id: 6,
             path: '/checkout',
-            label: 'menu-checkout',
+            label: 'Košarica',
           },
           {
             id: 7,
@@ -573,7 +534,7 @@ export const siteSettings = {
       {
         id: 7,
         path: '/contact-us',
-        label: 'menu-contact-us',
+        label: 'Kontakt',
       },
     ],
     /*languageMenu: [
@@ -594,22 +555,22 @@ export const siteSettings = {
       {
         id: 1,
         path: '/search',
-        label: 'menu-best-deals',
+        label: 'Najbolje ocjenjeni proizvodi',
       },
       {
         id: 2,
         path: '/about-us',
-        label: 'menu-about-us',
+        label: 'O nama',
       },
       {
         id: 3,
         path: '/contact-us',
-        label: 'menu-contact-us',
+        label: 'Kontakt',
       },
       {
         id: 4,
         path: '/faq',
-        label: 'menu-faq',
+        label: 'Često postavljena pitanja',
       },
     ],
   },

@@ -13,7 +13,7 @@ const rubik = Rubik({
 
 
 export const metadata: Metadata = {
-  title: 'Razor',
+  title: 'Živić-Elektro',
 };
 
 export default function RootLayout({

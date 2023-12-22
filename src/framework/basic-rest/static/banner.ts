@@ -1,16 +1,16 @@
 export const homeOneHeroBanner = [
     {
       id: 1,
-      title: 'banner-meat-needs-title',
+      title: 'Povoljna kupnja sa našim cijenama',
       description: 'banner-healthy-vegetable-description',
       btnText: 'text-explore-more',
       btnUrl: '/search',
       image: {
         mobile: {
-          url: '/assets/images/hero/home1/slider_1.jpg',
+          url: '/assets/images/hero/home1/slider_1.png',
         },
         desktop: {
-          url: '/assets/images/hero/home1/slider_1.jpg',
+          url: '/assets/images/hero/home1/slider_1.png',
         },
       },
     },
@@ -22,10 +22,10 @@ export const homeOneHeroBanner = [
       btnUrl: '/search',
       image: {
         mobile: {
-          url: '/assets/images/hero/home1/slider_2.jpg',
+          url: '/assets/images/hero/home1/slider_2.png',
         },
         desktop: {
-          url: '/assets/images/hero/home1/slider_2.jpg',
+          url: '/assets/images/hero/home1/slider_2.png',
         },
       },
     }
