@@ -16,7 +16,7 @@ export const siteSettings = {
     url: siteLogo,
     urlReverse: siteLogoBlack,
     alt: 'Živić-Elektro',
-    href: '/',
+    href: '/en',
     width: 195,
     height: 26,
   },
@@ -94,7 +94,7 @@ export const siteSettings = {
         mega_bannerImg: '/assets/images/mega/banner-menu.jpg',
         mega_bannerUrl: '/search',
         mega_contentBottom:
-          '<strong>30% Off</strong> the shipping of your first order with the code: <strong>RAZOR-SALE30</strong>',
+          '',
         subMenu: [
           {
             id: 1,
